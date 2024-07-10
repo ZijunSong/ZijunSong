@@ -13,9 +13,13 @@ Please contact me via email: 2949203143@mail.dlut.edu.cn.
 - **无线感知**：Wifi感知、室内定位等。
 - **计算机视觉**：计算机图形学、目标检测。
 - **多模态**
+- **机器学习**
+- **深度学习**
 - **Wireless Sensing**: WiFi Sensing, Indoor Positioning.
 - **Computer Vision**: Computer Graphics, Object Detection.
 - **Multimodal**
+- **Machine Learning**
+- **Deep Learning**
 ## 学术成果/Publications
 ### 期刊/Journal
 #### SCI-I
