@@ -6,13 +6,16 @@ Please contact me via email: 2949203143@mail.dlut.edu.cn.
 ## 教育及工作经历/Personal and Work Experience
 ### 教育经历/Personal Experience
 - 2018.09-2021.06 大连市金州高级中学/Jinzhou Senior High School in Dalian
-- 2021.09-2025.06 大连理工大学软件学院网络工程专业/School of Software in Dalian University of Technology 
+- 2021.09-2025.06 大连理工大学软件学院/School of Software in Dalian University of Technology 
 - 2025.09-
 ### 工作经历/Work Experience
 ## 研究方向/Research Interests
-  无线感知。
-  
-  Wireless sensing.
+- **无线感知**：Wifi感知、室内定位等。
+- **计算机视觉**：计算机图形学、目标检测。
+- **多模态**
+- **Wireless Sensing**: WiFi Sensing, Indoor Positioning.
+- **Computer Vision**: Computer Graphics, Object Detection.
+- **Multimodal**
 ## 学术成果/Publications
 ### 期刊/Journal
 #### SCI-I
