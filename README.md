@@ -12,16 +12,12 @@ Please contact me via email: 2949203143@mail.dlut.edu.cn.
 ## 研究方向/Research Interests
 - **无线感知**：Wifi感知、室内定位等。
 - **计算机视觉**：计算机图形学、目标检测等。
-- **多模态**
-- **机器学习**
-- **深度学习**
-- **时空预测**：城市计算、轨迹预测等。
+- **强化学习**：多代理系统的协作和任务解决、轨迹预测等。
+- **AI4Science**：计算生物学等。
 - **Wireless Sensing**: WiFi Sensing, Indoor Positioning.
 - **Computer Vision**: Computer Graphics, Object Detection.
-- **Multimodal**
-- **Machine Learning**
-- **Deep Learning**
-- **Spatiotemporal prediction**: urban computing, trajectory prediction.
+- **Reinforcement learning**: Collaboration and task solving in multi-agent systems, trajectory prediction.
+- **AI4Science**: Computational Biology.
 ## 学术成果/Publications
 ### 期刊/Journal
 #### SCI-I
