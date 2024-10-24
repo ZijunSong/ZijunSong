@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hiyouga&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+
 # 个人主页/Homepage
 ## 自我介绍/Self Introduction
 请通过邮箱联系我：2949203143@mail.dlut.edu.cn。
