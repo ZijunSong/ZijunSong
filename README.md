@@ -1,5 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JusticeJason&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-<img align="right" src="https://komarev.com/ghpvc/?username=JusticeJason" alt="JusticeJason" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZijunSong&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=JusticeJason" alt="ZijunSong" />
 
 # 个人主页/Homepage
 ## 自我介绍/Self Introduction
