@@ -1,8 +1,7 @@
+## Self Introduction
 <a>
   <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=ZijunSong&show_icons=true&bg_color=30,6a11cb,2575fc&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" />
 </a>
-
-## Self Introduction
 👋 Hello, I’m Purple Nightmare, currently a Ph.D. student at the School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences (UCAS).
 🔬 My research interests include LLM, Reinforcement Learning, and AI for Science.
 
