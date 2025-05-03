@@ -1,50 +1,57 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZijunSong&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-<img align="right" src="https://komarev.com/ghpvc/?username=JusticeJason" alt="ZijunSong" />
+<a>
+  <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=ZijunSong&show_icons=true&bg_color=30,6a11cb,2575fc&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" />
+</a>
 
-# 个人主页/Homepage
-## 自我介绍/Self Introduction
-请通过邮箱联系我：2949203143@mail.dlut.edu.cn。
+## Self Introduction
+👋 Hello, I’m Purple Nightmare, currently a Ph.D. student at the School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences (UCAS).
+🔬 My research interests include LLM, Reinforcement Learning, and AI for Science.
 
-Please contact me via email: 2949203143@mail.dlut.edu.cn.
-## 教育及工作经历/Personal and Work Experience
-### 教育经历/Personal Experience
-- 2018.09-2021.06 大连市金州高级中学/Jinzhou Senior High School in Dalian
-- 2021.09-2025.06 大连理工大学软件学院/School of Software in Dalian University of Technology 
-- 2025.09-2030.06 中国科学院软件研究所/Institute of Software Chinese Academy of Sciences
-### 工作经历/Work Experience
-暂无
-## 研究方向/Research Interests
-- **无线感知**：Wifi感知、室内定位等。
-- **强化学习**：多代理系统的协作和任务解决、轨迹预测等。
-- **大语言模型**：群体智能等。
-- **AI4Science**：计算生物学等。
-- **Wireless Sensing**: WiFi Sensing, Indoor Positioning.
-- **Reinforcement learning**: Collaboration and task solving in multi-agent systems, trajectory prediction.
-- **Large language models**: swarm intelligence.
-- **AI4Science**: Computational Biology.
-## 学术成果/Publications
-### 期刊/Journal
+🎯 My ultimate research goal is natural language-guided de novo life design and synthesis.
+🧬 At present, my doctoral research focuses on natural language-guided de novo molecular generation.
+🛠 To support this direction, I have developed a strong research background in reinforcement learning, large language models, large-scale reasoning models, multimodal models, single-cell perturbation analysis, virtual cell modeling, and diffusion models (including both literature and coding experience).
+
+🤝 For collaboration or discussion, please feel free to contact me via email:
+✉️ purpnm2002@gmail.com
+
+## 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZijunSong&theme=flat&no-bg=true&title_color=ffffff&text_color=ffffff" />
+</p>
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/ZijunSong/Everyone-Benchmarks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZijunSong&repo=Everyone-Benchmarks&bg_color=30,6a11cb,2575fc&title_color=fff&text_color=fff&hide_border=true" />
+    <br/>Everyone-Benchmarks
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Hytn/ToLeaP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hytn&repo=ToLeaP&bg_color=30,6a11cb,2575fc&title_color=fff&text_color=fff&hide_border=true" />
+    <br/>ToLeaP
+  </a>
+</td>
+</tr>
+</table>
+
+## Publications
+### Journal
 #### SCI-I
 #### SCI-II
 #### SCI-III
 #### SCI-IV
-### 会议/Conference
+### Conference
 #### CCF-A
 #### CCF-B
 #### CCF-C
 #### EI
-2023 [基于深度学习的风速预测](https://ieeexplore.ieee.org/document/10257864) Li, Xianli, **Zijun Song**, and Ze Jin. "Wind Speed Prediction with Deep Learning Method." 2023 IEEE International Conference on Image Processing and Computer Applications (ICIPCA). IEEE, 2023.
+Li, Xianli, **Zijun Song**, and Ze Jin. "[Wind Speed Prediction with Deep Learning Method.](https://ieeexplore.ieee.org/document/10257864)" 2023 IEEE International Conference on Image Processing and Computer Applications (ICIPCA). IEEE, 2023.
 
-2022 [基于毫米波雷达的转速测量系统](https://ieeexplore.ieee.org/document/9926668) **Song, Zijun**, and Qiwei Wang. "A Rotation Speed Measurement System based on Millimeter Wave." 2022 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI). IEEE, 2022.
-### 专利/Patent
-暂无
-## 研究项目/Research Projects
-暂无
-## 所获荣誉/Honors
-暂无
-## 学术兼职/Part-time Academic Job
-暂无
-## 评价/Evaluation
-### 教师评价/Teachers' Evaluation
-### 同学评价/Classmates' Evaluation
-### 学生评价/Students' Evaluation
+**Song, Zijun**, and Qiwei Wang. "[A Rotation Speed Measurement System based on Millimeter Wave.](https://ieeexplore.ieee.org/document/9926668)" 2022 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI). IEEE, 2022.
+### Patent
+None
+## Honors
+None
+## Part-time Academic Job
+None
