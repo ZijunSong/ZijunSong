@@ -1,6 +1,6 @@
-## Self Introduction
+## 😈 Self Introduction
 
-👋 Hello, I’m Purple Nightmare, currently a Ph.D. student at the School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences (UCAS).
+👋 Hello, I’m Purple Nightmare😈, currently a Ph.D. student at the School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences (UCAS).
 🔬 My research interests include LLM, Reinforcement Learning, and AI for Science.
 
 🎯 My ultimate research goal is natural language-guided de novo life design and synthesis.
