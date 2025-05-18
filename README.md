@@ -24,8 +24,8 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/Hytn/ToLeaP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hytn&repo=ToLeaP&bg_color=30,6a11cb,2575fc&title_color=fff&text_color=fff&hide_border=true" />
+  <a href="https://github.com/thunlp/ToLeaP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=ToLeaP&bg_color=30,6a11cb,2575fc&title_color=fff&text_color=fff&hide_border=true" />
     <br/>ToLeaP
   </a>
 </td>
