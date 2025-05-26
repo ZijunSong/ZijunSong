@@ -10,6 +10,12 @@
 🤝 For collaboration or discussion, please feel free to contact me via email:
 ✉️ purpnm2002@gmail.com
 
+[[Google Scholar]](https://scholar.google.com/citations?user=oCGK2GoAAAAJ&hl=zh-CN)
+[Twitter]() 
+[]() 
+[]() 
+[]()
+
 ## 🚀 Featured Projects
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ZijunSong&theme=flat&no-bg=true&title_color=ffffff&text_color=ffffff" />
